@@ -102,3 +102,8 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 - [Spock](http://spockframework.org/) - It is Groovy library, but in Java projects Groovy often used for testing.
 - [Awaitability](https://github.com/awaitility/awaitility) - Helper library for async software testing.
 - [ScalaCheck](https://www.scalacheck.org/) - Property based testing.
+
+## Java & GPU Computation
+#### Waiting for reviews
+- [AMD Aparapi](http://aparapi.github.io/) - AMD implementation of Java to OpenCL interface.
+- [aparapi](https://github.com/Syncleus/aparapi) - a framework for executing native Java code on the GPU.
