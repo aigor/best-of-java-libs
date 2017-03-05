@@ -50,6 +50,7 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 - [FasterXML Jackson](https://github.com/FasterXML/jackson) - Great XML/JSON/etc. <-> POJO converter.
 - [Project Lombock](https://projectlombok.org/) - Boilerplate genertion.
 - [Ehcache](http://www.ehcache.org) - In-memory cache for Java.
+- [JNA](https://github.com/java-native-access/jna) - Simple but powerfull integration with native code.
 
 #### Waiting for reviews
 - [okhhtp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
