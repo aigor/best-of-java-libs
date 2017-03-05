@@ -80,7 +80,10 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 ## Application Integration & Messaging (EIP)
 #### Battle tested
 - [Apache ActiveMQ](http://activemq.apache.org/) - Message broker, JMS implementation. Old & has a lot of design issues, in most cases it is overkill.
-- [Apache Camel](http://camel.apache.org/) - Powerfull implementation of EIP, but in modern applications it is rearly usefull. 
+- [Apache Camel](http://camel.apache.org/) - Powerfull implementation of EIP, but in modern applications it is rearly usefull.
+
+#### Waiting for reviews
+- [Apache Kafka](https://kafka.apache.org/) - Used for building real-time data pipelines and streaming apps.
 
 ## Application Testing (Unit, Integration)
 #### Battle tested
