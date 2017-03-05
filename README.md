@@ -1,5 +1,6 @@
 # Best of Java libraries
 List of libraries I recommend to use for Java projects &amp; libraries I'd like to use.
+
 At the moment this list is not complete, but I'll try to add most of libraries I've ever worked with.
 
 ## Application Glue (IoC, DI, etc.)
