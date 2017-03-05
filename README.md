@@ -76,6 +76,10 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 - [Slik](http://slick.lightbend.com/) - Scala library for functional relational mapping.
 - [Titan DB](http://titan.thinkaurelius.com/) - A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
 
+## Application Integration & Messaging (EIP)
+#### Battle tested
+- [Apache ActiveMQ](http://activemq.apache.org/) - Message broker, JMS implementation. Old & has a lot of design issues, in most cases it is overkill.
+- [Apache Camel](http://camel.apache.org/) - Powerfull implementation of EIP, but in modern applications it is rearly usefull. 
 
 ## Application Testing (Unit, Integration)
 #### Battle tested
