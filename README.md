@@ -64,6 +64,7 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 - [Netflix Hollow]() - comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 - [JavaSpark](https://github.com/perwendel/spark) - A tiny web framework for Java 8.
 - [okio](https://github.com/square/okio) - A modern I/O API for Java.
+- [JCTools](https://github.com/JCTools/JCTools) - Concurrent data structures currently missing from the JDK
 
 ## DB & Integration Tools
 #### Battle tested
