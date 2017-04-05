@@ -93,6 +93,7 @@ At the moment this list is not complete, but I'll try to add most of libraries I
 - [TestNG](http://testng.org/doc/index.html) - Just TestNG.
 - [Mockito](http://site.mockito.org) - Mocking library. 
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh/) - Best option for micro-benchmarks in Java!
+- [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Java Object Layout, analyze object layout schemes in JVMs.
 - [RestAssured](https://github.com/rest-assured/rest-assured) - DSL for testing REST API.
 - [H2](http://www.h2database.com/html/tutorial.html) - Great for faking more serious SQL databases.
 - [Fongo](https://github.com/fakemongo/fongo) - Fast dummy Mongo API compatible inmemory replacement, gread for tests.
